@@ -31,7 +31,7 @@ Format of dataset file is csv file cantain 38,576 rows and 25 colums
 
 ![](EXCEL_ROW_DATA.png)
 
-## VISUALIZATION & ANALYSIS 
+## DESIGNING & ANALYSIS 
 
 ### STEP 1
 
@@ -55,22 +55,23 @@ Than we calculat KPIs
 
 Than used data MODELING 
 
-![]()
+![](MODELING.png)
+
+
 ### STEP 4
 
 Than we visualiza a data by using different chart and we play around it to get some insight from it.
 
 #### Visualize Data Through Various Charts:
 
-- <u> Stacked bar chart </u> = Hourly Trend for Total Pizzas Sold <br>
-- <u> Line chart </u> = Weekly Trend for Total Orders <br>
-- <u> Pie chart </u> = Percentage of Sales by Pizza Category <br>
-- <u> Pie chart </u> = Percentage of Sales by Pizza Size <br>
-- <u> Funnel chart </u> = Total Pizzas Sold by Pizza Category <br>
-- <u> Bar chart </u> = Top 5 Best Sellers by Revenue, Total Quantity, and Total Orders <br>
-- <u> Bar chart </u> = Bottom 5 Best Sellers by Revenue, Total Quantity, and Total Orders <br>
+- <u> Line chart </u> = Monthly Trend by issue data <br>
+- <u> Filled Map </u> = Regional Analysis by State  <br>
+- <u> Donut Chart  </u> = Loan Term Analysis  <br>
+- <u> Bar Chart </u> = Employee Length Analysis  <br>
+- <u> Bar chart </u> = Loan Purpose Breakdown <br>
+- <u> Tree Map </u> = Home Ownership Analysis  <br>
 
-![](CHARTS_HOME_TAB.png)
+![](OVERVIEW_CHARTS.png)
 
 This above 2 steps for home tab dashboard & Now we design overview dashboard which is second dashboard.
 
