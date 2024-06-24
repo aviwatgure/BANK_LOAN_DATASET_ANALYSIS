@@ -127,6 +127,10 @@ The analysis of the bank loan data reveals the following key insights:
 
 #### The bank has issued a significant number of loans, with the majority being good loans (86.2%), indicating effective risk assessment and lending practices. The total amount funded ($435.8 million) compared to the total amount received ($473.1 million) shows a positive return, highlighting the profitability of the loan portfolio. The average interest rate of 12.05% and an average DTI ratio of 13.33% suggest that the bank is maintaining a balanced approach in lending, ensuring borrowers can manage their debt.
 
+<br>
+<br>
+
+
 ## Recommendations:
 
 ### 1.Enhance Risk Assessment:
