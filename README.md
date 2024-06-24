@@ -115,37 +115,38 @@ The primary objective of the Details Dashboard is to provide a comprehensive and
 
 The analysis of the bank loan data reveals the following key insights:
 
-Total Loan Applications: 38,600
-Good Loans Issued: 86.2%
-Bad Loans Issued: 13.8%
-Total Funded Amount: $435.8 million
-Total Amount Received: $473.1 million
-Average Interest Rate: 12.05%
-Average Debt-to-Income (DTI) Ratio: 13.33%
+- <u> Total Loan Applications  </u> : 38,600
+- <u> Good Loans Issued  </u> : 86.2%
+- <u> Bad Loans Issued  </u> : 13.8%
+- <u> Total Funded Amount  </u> : $435.8 million
+- <u> Total Amount Received  </u> : $473.1 million
+- <u> Average Interest Rate  </u> : 12.05%
+- <u> Average Debt-to-Income (DTI) Ratio  </u> : 13.33%
 
 #### The bank has issued a significant number of loans, with the majority being good loans (86.2%), indicating effective risk assessment and lending practices. The total amount funded ($435.8 million) compared to the total amount received ($473.1 million) shows a positive return, highlighting the profitability of the loan portfolio. The average interest rate of 12.05% and an average DTI ratio of 13.33% suggest that the bank is maintaining a balanced approach in lending, ensuring borrowers can manage their debt.
 
 ## Recommendations:
 
-1.Enhance Risk Assessment:
--Focus on Reducing Bad Loans: 
+### 1.Enhance Risk Assessment:
+- <u> Focus on Reducing Bad Loans  </u> :
 Although the percentage of bad loans is relatively low, further reducing it can improve profitability and minimize potential losses. Implementing more stringent credit evaluation criteria and utilizing advanced predictive analytics can help achieve this.
--Monitor High-Risk Segments: 
+- <u> Monitor High-Risk Segments  </u> :
 Regularly review and analyze segments with higher default rates to understand underlying causes and adjust lending policies accordingly.
 
-2.Optimize Interest Rates:
-Competitive Interest Rates: Continuously assess market conditions to ensure the interest rates offered are competitive while still maximizing returns. Consider offering variable interest rates based on borrower profiles to attract a wider range of customers.
+### 2.Optimize Interest Rates:
+Competitive Interest Rates : Continuously assess market conditions to ensure the interest rates offered are competitive while still maximizing returns. Consider offering variable interest rates based on borrower profiles to attract a wider range of customers.
 
-3.Improve Debt-to-Income Ratio Management:
-Promote Financial Literacy: Educate borrowers on maintaining a healthy DTI ratio, which can help them manage their finances better and reduce default rates. Offering workshops or online resources can be effective in this regard.
+### 3.Improve Debt-to-Income Ratio Management:
+Promote Financial Literacy : Educate borrowers on maintaining a healthy DTI ratio, which can help them manage their finances better and reduce default rates. Offering workshops or online resources can be effective in this regard.
 
-4.Expand Lending Portfolio:
-Target New Markets: Explore opportunities in under-served or emerging markets to expand the customer base and increase loan issuance.
-Diversify Loan Products: Introduce new loan products tailored to different customer needs, such as small business loans, educational loans, or green loans, to attract a diverse clientele.
+### 4.Expand Lending Portfolio:
 
-5.Leverage Technology:
--Implement Advanced Analytics: Use machine learning and AI to enhance predictive modeling for loan approvals and risk assessment.
--Enhance Customer Experience: Invest in digital platforms that streamline the loan application and approval process, providing a seamless experience for customers.
+- <u> Target New Markets </u> : Explore opportunities in under-served or emerging markets to expand the customer base and increase loan issuance.
+- <u> Diversify Loan Products </u> : Introduce new loan products tailored to different customer needs, such as small business loans, educational loans, or green loans, to attract a diverse clientele.
+
+### 5.Leverage Technology:
+- <u>Implement Advanced Analytics </u> : Use machine learning and AI to enhance predictive modeling for loan approvals and risk assessment.
+- <u> Enhance Customer Experience  </u> : Invest in digital platforms that streamline the loan application and approval process, providing a seamless experience for customers.
 
 
-By focusing on these areas, the bank can continue to grow its loan portfolio, improve profitability, and maintain a strong market position while effectively managing risk.
+### By focusing on these areas, the bank can continue to grow its loan portfolio, improve profitability, and maintain a strong market position while effectively managing risk.
