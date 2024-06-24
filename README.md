@@ -10,18 +10,26 @@ This project leverages the powerful capabilities of Excel, SQL, and Microsoft Po
 
 ## PROBLEM STATEMENT
 
+
+![](PROBLEM_STATMENT.png)
+
 In order to monitor and assess our bank's lending activities and performance, we need to create a comprehensive Bank Loan Report. This report aims to provide insights into key loan-related metrics and their changes over time. The report will help us make data-driven decisions, track our loan portfolio's health, and identify trends that can inform our lending strategies.
 
-![](PROBLEM_STATMENT.jpg)
+## TOOLS USED
 
-
+- <u> EXCEL </u> <br>
+Used Excel to convert unstructured data into a tabular format and created additional fields for deeper analysis.
+- <u> SQL  </u> <br>
+Used SQL to calculate KPIs and other metrics.
+- <u> POWER BI  </u> <br>
+Used Power BI to design interactive reports and analyze data to provide insights to stakeholders.
 
 ## DATA SOURCE
+
 This is dami data. <br>
-Format of dataset file is csv file cantain 48,620 rows and 15 colums
+Format of dataset file is csv file cantain 38,576 rows and 25 colums
 
-
-
+![](EXCEL_ROW_DATA.png)
 
 ## VISUALIZATION & ANALYSIS 
 
@@ -35,15 +43,20 @@ Than we calculat KPIs
 
 #### Calculate Key Performance Indicators (KPIs):
 
-- <u> Total Revenue </u> <br>
-- <u> Average Order Value (AOV)  </u> <br>
-- <u> Total Pizzas Sold  </u> <br>
-- <u> Total Orders  </u> <br>
-- <u> Average Pizzas Per Order  </u> <br>
+- <u> Total Loan Application </u> <br>
+- <u> Total Funded Amount  </u> <br>
+- <u> Total Amount Received </u> <br>
+- <u> Average Intrest Rate </u> <br>
+- <u> Average Debt-to-Income Ratio (DTI) </u> <br>
 
 ![](KPIs.png)
 
 ### STEP 3
+
+Than used data MODELING 
+
+![]()
+### STEP 4
 
 Than we visualiza a data by using different chart and we play around it to get some insight from it.
 
@@ -61,7 +74,7 @@ Than we visualiza a data by using different chart and we play around it to get s
 
 This above 2 steps for home tab dashboard & Now we design overview dashboard which is second dashboard.
 
-### STEP 4
+### STEP 5
 
 #### We crate six different bar charts which show top 5 pizza and bottom 5 pizza for verious category
 
