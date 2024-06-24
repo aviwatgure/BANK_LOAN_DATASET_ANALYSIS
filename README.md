@@ -77,14 +77,15 @@ This above 2 steps for home tab dashboard & Now we design overview dashboard whi
 
 ### STEP 5
 
-#### We crate six different bar charts which show top 5 pizza and bottom 5 pizza for verious category
+#### We crate dashboard 3 which give a detail of customers in grid view
 
-- <u> Top 5 pizza by revenue </u>  <br>
-- <u> Top 5 pizza by quntity </u>  <br>
-- <u> Top 5 pizza by total order </u>  <br>
-- <u> Bottom 5 pizza by revenue </u>  <br>
-- <u> Bottom 5 pizza by quntity </u>  <br>
-- <u> Bottom 5 pizza by total order </u>  <br>
+GRID
+Need for a comprehensive 'Details Dashboard' that provides a consolidated view of all the essential information within our loan data. 
+This Details Dashboard aims to offer a holistic snapshot of key loan-related metrics and data points, enabling users to access critical information efficiently.
+
+Objective:
+The primary objective of the Details Dashboard is to provide a comprehensive and user-friendly interface for accessing vital loan data. It will serve as a one-stop solution for users seeking detailed insights into our loan portfolio, borrower profiles, and loan performance.
+
 
 ![](CHARTS_OVERVIEW_TAB.png)
 
