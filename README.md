@@ -91,6 +91,8 @@ The primary objective of the Details Dashboard is to provide a comprehensive and
 
 #### By analyzing these KPIs and visualizations, we aim to provide actionable insights that will help optimize business operations, enhance customer satisfaction, and drive sales growth. The insights gained will support data-driven decision-making and strategic planning for the pizza chain.
 
+<br>
+<br>
 
 |          SUMMARY DASHBOARD                | 
 :---------------------------------------:|
@@ -106,81 +108,44 @@ The primary objective of the Details Dashboard is to provide a comprehensive and
 :---------------------------------------:|
  ![](DETAILS.png)   
 
- 
+ <br>
+ <br> 
+
 ## CONCLUTION
 
-#### The detailed analysis of the pizza sales dataset using Power BI has provided significant insights into the busiest times, sales performance, and the best and worst-selling products. Here are the key findings and their implications for the business:
+The analysis of the bank loan data reveals the following key insights:
 
- ###  - <u> Busiest Day and Time : </u> 
- 
-![](DAY_TIME.png)
+Total Loan Applications: 38,600
+Good Loans Issued: 86.2%
+Bad Loans Issued: 13.8%
+Total Funded Amount: $435.8 million
+Total Amount Received: $473.1 million
+Average Interest Rate: 12.05%
+Average Debt-to-Income (DTI) Ratio: 13.33%
 
-#### Day:
-Orders Are Highest On Weekends, Especially Friday and Saturday Evenings : <br> 
-This insight suggests that the business experiences peak order volumes during weekends, particularly in the evenings. This pattern likely reflects customers' dining habits, where they prefer to order pizzas as a treat during the weekend. <br>
-Implication : The business should ensure adequate staffing, inventory, and delivery resources during these peak times to meet the higher demand and maintain service quality.
-
-#### Monthly:
-Maximum Orders Are Placed in July and January : <br> 
-These months show a significant spike in orders, possibly due to holidays and seasonal promotions. <br>
-Implication : Seasonal marketing campaigns and promotions can be strategically planned for these months to capitalize on the increased customer demand.
-
-### - <u>  Sales Performance : </u> 
-
-![](SALES_PERFORMANCE.png)
-
-#### Category:
-Classic Category Contributes To Maximum Sales and Total Orders : <br> 
-The Classic pizza category is the most popular among customers, generating the highest sales and order volumes. <br>
-Implication : Focusing on maintaining and expanding the Classic pizza offerings, including introducing new variants or limited-time specials within this category, can further boost sales.
-
-#### Size:
-Large Size Pizza Contributes To Maximum Sales : <br> 
-Large pizzas are the top choice for customers, driving the most significant portion of sales. <br>
-Implication : Promotions that encourage customers to upgrade to large sizes, such as value deals or combo offers, can enhance sales.
-
- ### - <u> Best Sellers : </u> 
-
-![](BEST_SELLER.png)
-
-#### Revenue:
-The Thai Chicken Pizza Contributes To Maximum Revenue : <br> 
-This pizza variant generates the highest revenue, indicating strong customer preference and possibly a higher price point. <br>
-Implication : The Thai Chicken Pizza should be prominently featured in marketing materials, and its success could inspire the development of similar high-revenue items.
-
-#### Total Orders and Quantity : <br>
-The Classic Deluxe Pizza Contributes To Maximum Total Orders and Quantity: This pizza variant is ordered most frequently and in the largest quantities, demonstrating broad customer appeal. <br>
-Implication :  Ensuring consistent quality and availability of the Classic Deluxe Pizza is crucial, and it may be beneficial to create promotions that feature this popular item.
-
- ###  - <u> Worst Sellers : </u> 
-
-![](WORST_SELLER.png)
-
-#### Revenue, Total Orders, and Quantity :  <br>
-The Brie Carre Pizza Contributes To Minimum Revenue, Total Orders, and Quantity: This pizza variant performs poorly across all sales metrics. <br>
-Implication :  A review of the Brie Carre Pizza is necessary to determine whether it can be improved through recipe adjustments or marketing efforts. If not, it may be more cost-effective to remove it from the menu and replace it with a more popular option.
-
-
-
-
+#### The bank has issued a significant number of loans, with the majority being good loans (86.2%), indicating effective risk assessment and lending practices. The total amount funded ($435.8 million) compared to the total amount received ($473.1 million) shows a positive return, highlighting the profitability of the loan portfolio. The average interest rate of 12.05% and an average DTI ratio of 13.33% suggest that the bank is maintaining a balanced approach in lending, ensuring borrowers can manage their debt.
 
 ## Recommendations:
 
-- <u> Resource Allocation </u> :  <br>
-Increase staff and inventory levels during weekends and the peak months of July and January to meet higher demand and maintain service quality.
+1.Enhance Risk Assessment:
+-Focus on Reducing Bad Loans: 
+Although the percentage of bad loans is relatively low, further reducing it can improve profitability and minimize potential losses. Implementing more stringent credit evaluation criteria and utilizing advanced predictive analytics can help achieve this.
+-Monitor High-Risk Segments: 
+Regularly review and analyze segments with higher default rates to understand underlying causes and adjust lending policies accordingly.
 
-- <u> Marketing Strategies </u> :  <br>
-Promote the Thai Chicken Pizza and other high-revenue items prominently. <br>
-Leverage the popularity of the Classic Deluxe Pizza in promotions and special offers.  <br>
+2.Optimize Interest Rates:
+Competitive Interest Rates: Continuously assess market conditions to ensure the interest rates offered are competitive while still maximizing returns. Consider offering variable interest rates based on borrower profiles to attract a wider range of customers.
 
-- <u> Menu Optimization </u> : <br>
-Focus on enhancing and expanding the Classic pizza category and large pizza offerings.  <br>
-Consider removing or revamping underperforming items like the Brie Carre Pizza.  <br>
+3.Improve Debt-to-Income Ratio Management:
+Promote Financial Literacy: Educate borrowers on maintaining a healthy DTI ratio, which can help them manage their finances better and reduce default rates. Offering workshops or online resources can be effective in this regard.
 
-- <u> Customer Engagement </u> :  <br>
-Develop targeted marketing campaigns and promotions around the identified peak times and popular products to boost customer engagement and sales.  <br>
-By implementing these recommendations, the pizza chain can optimize operations, improve customer satisfaction, and drive revenue growth, leveraging the valuable insights gained from the Power BI analysis.
+4.Expand Lending Portfolio:
+Target New Markets: Explore opportunities in under-served or emerging markets to expand the customer base and increase loan issuance.
+Diversify Loan Products: Introduce new loan products tailored to different customer needs, such as small business loans, educational loans, or green loans, to attract a diverse clientele.
+
+5.Leverage Technology:
+-Implement Advanced Analytics: Use machine learning and AI to enhance predictive modeling for loan approvals and risk assessment.
+-Enhance Customer Experience: Invest in digital platforms that streamline the loan application and approval process, providing a seamless experience for customers.
 
 
-
-
+By focusing on these areas, the bank can continue to grow its loan portfolio, improve profitability, and maintain a strong market position while effectively managing risk.
