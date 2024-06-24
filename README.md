@@ -79,7 +79,7 @@ This above 2 steps for home tab dashboard & Now we design overview dashboard whi
 
 #### We crate dashboard 3 which give a detail of customers in grid view
 
-GRID
+GRID:
 Need for a comprehensive 'Details Dashboard' that provides a consolidated view of all the essential information within our loan data. 
 This Details Dashboard aims to offer a holistic snapshot of key loan-related metrics and data points, enabling users to access critical information efficiently.
 
@@ -87,22 +87,26 @@ Objective:
 The primary objective of the Details Dashboard is to provide a comprehensive and user-friendly interface for accessing vital loan data. It will serve as a one-stop solution for users seeking detailed insights into our loan portfolio, borrower profiles, and loan performance.
 
 
-![](CHARTS_OVERVIEW_TAB.png)
-
-This above steps for overview tab dashboard.
+![](GRID.png)
 
 #### By analyzing these KPIs and visualizations, we aim to provide actionable insights that will help optimize business operations, enhance customer satisfaction, and drive sales growth. The insights gained will support data-driven decision-making and strategic planning for the pizza chain.
 
 
-|          HOME DASHBOARD                | 
+|          SUMMARY DASHBOARD                | 
 :---------------------------------------:|
- ![](PIZZA_SALES_DASHBOARD_HOME_TAB.png)   
+ ![](SUMMARY_DASH.png)   
 
  
-|          OVERVIEW-DASHBOARD               |
+|          OVERVIEW DASHBOARD               |
 :-------------------------------------------:
- ![](PIZZA_SALES_DASHBOARD_OVERVIEW_TAB.png)
+ ![](OVERVIEW_DASH.png)
+ 
 
+|          DETAILS DASHBOARD             | 
+:---------------------------------------:|
+ ![](DETAILS.png)   
+
+ 
 ## CONCLUTION
 
 #### The detailed analysis of the pizza sales dataset using Power BI has provided significant insights into the busiest times, sales performance, and the best and worst-selling products. Here are the key findings and their implications for the business:
