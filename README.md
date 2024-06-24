@@ -39,7 +39,9 @@ First we study the data properly by give a sufficient time on it.
 
 ### STEP 2
 
-Than we calculat KPIs 
+Than we do all the calculation in SQL 
+
+![](SQL_Calculation.png)
 
 #### Calculate Key Performance Indicators (KPIs):
 
